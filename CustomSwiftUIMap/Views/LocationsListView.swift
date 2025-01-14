@@ -1,6 +1,6 @@
 //
 //  LocationsListView.swift
-//  SwiftUIMapApp
+//  CustomSwiftUIMap
 //
 //  Created by Dmytro Ryshchuk on 1/12/25.
 //

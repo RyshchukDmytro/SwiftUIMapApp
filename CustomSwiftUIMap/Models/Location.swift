@@ -1,6 +1,6 @@
 //
 //  Location.swift
-//  SwiftUIMapApp
+//  CustomSwiftUIMap
 //
 //  Created by Dmytro Ryshchuk on 1/11/25.
 //
